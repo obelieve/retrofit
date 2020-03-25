@@ -23,3 +23,9 @@ obj
 
 #MacOS
 .DS_Store
+
+#gradle
+.
+/local.properties
+.gradle
+/build
